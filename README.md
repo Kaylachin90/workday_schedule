@@ -1,11 +1,13 @@
 # workday_schedule
 
-![Screenshot](/assets/images/screenshot.png)
+![Screenshot](./images/workday.png)
+
+link: https://kaylachin90.github.io/workday_schedule/
 
 ## Description
 
--This challenge is for homework 2
--In this I needed to create a webpage, that loaded my employee protfolio, links to sections, tiled images and urls that take you to other sides
+-This challenge is for making a work day scheduling page.
+-In this I needed to create a webpage, that loaded my workday schedule.
 
 ## Table of Contents (Optional)
 
@@ -18,16 +20,17 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-1. Devlop developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-2. write css for when UI scrolls to a section with titled images of the developer's applications
-3. write into HTML and CSS: application's image should be larger in size than the others
-4. install href for all of the images and links
-5. add responsive layout
+1. Create a typical workday page and add css
+2. Current day is displayed at the top of the calendar
+3. Each timeblock is color coded to indicate whether it is in the past, present, or future
+4. Can enter an event
+5. click the save button for that timeblock
+6. the text for that event is saved in local storage
 
 
 ## Usage
 
--The webpage can be opened into a browser and you are able to navigate the application of Kayla Chin.
+-Manage my time in a daily calender
 
 ## Credits
 
@@ -43,7 +46,4 @@ Permissions of this strongest copyleft license are conditioned on making availab
 
 ## Features
 
--About Me
--Work
--Contact Me
--Resume
+-Enter in workday and save.
